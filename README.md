@@ -1,3 +1,3 @@
-# Data Structures and Algoorithms in Python
+# Data Structures and Algorithms in Python
 
 An implementation of Data Structures in Python. 
