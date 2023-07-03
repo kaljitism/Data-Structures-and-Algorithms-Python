@@ -1,6 +1,6 @@
 ![Data_Structures_and_Algorithms_in_Python](https://github.com/kaljitism/Data-Structures-and-Algorithms-Python/assets/52685389/cdb87999-f21a-403a-addc-39cc4cef721c)
 
-![Static Badge](https://img.shields.io/badge/Dart%20-%20light%20blue) ![GitHub Repo stars](https://img.shields.io/github/stars/kaljitism/Data-Structures-and-Algorithms-Dart) ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/y/kaljitism/Data-Structures-and-Algorithms-Dart)
+![Static Badge](https://img.shields.io/badge/Python%20-blue) ![GitHub Repo stars](https://img.shields.io/github/stars/kaljitism/Data-Structures-and-Algorithms-Dart) ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/y/kaljitism/Data-Structures-and-Algorithms-Dart)
 
 A repository which contains Implementation of Data Strcutures and Algorithms in Dart.
 
